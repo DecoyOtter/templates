@@ -10,3 +10,7 @@ image: /assets/images/arlec_GLD122HA.jpg
 template: '{"NAME":"Arlec RGBWW","GPIO":[0,0,0,0,37,40,0,0,38,41,39,0,0],"FLAG":0,"BASE":18}' 
 link2: 
 ---
+24/05/2020 - Unable to flash this device using tuya convert, "Device did not appear with the intermediate firmware". Probably related to this issue:
+https://github.com/ct-Open-Source/tuya-convert/issues/483
+
+Someone more experienced with this might be able to confirm, but for noobs like me, be forwarned.
